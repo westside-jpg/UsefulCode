@@ -5,4 +5,5 @@ Parts of code that could help solve different tasks
 3. Matrix
 4. Sorting
 5. Calculations
-6. Just fun :D
+6. Dynamics
+7. Just fun :D
